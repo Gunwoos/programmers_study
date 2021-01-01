@@ -7,7 +7,7 @@
 - [체육복](https://github.com/Gunwoos/programmers_study/blob/main/201217_TrainingCloth.playground/Contents.swift)
 - [K번째 뽑기](https://github.com/Gunwoos/programmers_study/blob/main/201224_K.playground/Contents.swift)
 - [2016년](https://github.com/Gunwoos/programmers_study/blob/main/201224_2016.playground/Contents.swift)
-- [3진법 뒤집기]()
-- [가운데 글자 가져오기]()
+- [3진법 뒤집기](https://github.com/Gunwoos/programmers_study/blob/main/210101_3.playground/Contents.swift)
+- [가운데 글자 가져오기](https://github.com/Gunwoos/programmers_study/blob/main/210101_pickMiddleWord.playground/Contents.swift)
 
 
